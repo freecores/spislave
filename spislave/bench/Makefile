@@ -1,6 +1,6 @@
 all: spigpio.vcd
 
-spigpio.txt: ~/Desktop/spigpio.v tb_spigpio.v
+spigpio.txt: ~/proj/opencores/spislave/spislave/trunk/spislave/rtl/verilog/spigpio.v tb_spigpio.v 
 	cat /dev/null > spigpio.txt 
 	for file in $^; do echo $$file >> spigpio.txt; done
 
