@@ -14,7 +14,9 @@
 ////                                                              ////
 //// Author(s):                                                   ////
 ////      - Sivakumar.B , email: sivabsk12@yahoo.co.in            ////
-////        Engr Zilogic  systems, chennai,  www.zilogic.com      ////
+////                      email: siva12@opencores.org             ////
+////        Engineer  Zilogic systems,chennai. www.zilogic.com    ////
+////                                                              ////
 //////////////////////////////////////////////////////////////////////
 ////                                                              ////
 //// Copyright (C) 2009 Authors and OPENCORES.ORG                 ////
