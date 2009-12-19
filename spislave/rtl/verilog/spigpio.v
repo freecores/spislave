@@ -13,16 +13,17 @@
 ////   -                                                          ////
 ////                                                              ////
 //// Author(s):                                                   ////
-////      - Sivakumar.B , email: sivabsk12@yahoo.co.in            ////
+////      - Sivakumar.B , email: siva@zilogic.com                 ////
 ////                      email: siva12@opencores.org             ////
 ////        Engineer  Zilogic systems,chennai. www.zilogic.com    ////
+////                                                              ////
 //////////////////////////////////////////////////////////////////////
 ////                                                              ////
-//// Copyright (C) 2009 Authors and OPENCORES.ORG                 ////
+//// Copyright (C) 2009 Zilogic Systems and OPENCORES.ORG         ////
 ////                                                              ////
 //// This source file may be used and distributed without         ////
 //// restriction provided that this copyright statement is not    ////
-//// removed from the file and that any derivative work contains ////
+//// removed from the file and that any derivative work contains  ////
 //// the original copyright notice and the associated disclaimer. ////
 ////                                                              ////
 //// This source file is free software; you can redistribute it   ////
